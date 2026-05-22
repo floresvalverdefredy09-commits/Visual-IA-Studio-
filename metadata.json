@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: iOS 18 Honor Fitness Launcher",
+  "description": "An interactive iOS 18 style launcher with dynamic island, glassmorphism, animated live wallpaper, specifically built for goalkeeper reaction, coordination agility and intensive HIIT physical workouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
